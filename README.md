@@ -1,1 +1,3 @@
-# machine-learning-study-2023
+#💻 machine-learning-study-2023
+
+college study about machine learning
